@@ -110,4 +110,4 @@ CHIP DMux {
     And(a=in,b=sel,out=b);
 }
 ```
-<img src="picture/all.jpg" width="300" height="200"  align=center /> 
+<img src="all.jpg" width="300" height="200"/> 
