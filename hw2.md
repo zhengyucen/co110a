@@ -212,4 +212,5 @@ CHIP DMux8Way {
 }
 ```
 <img src="hw2-1.jpg" width="300" height="200"/> 
-<img src="hw2.jpg" width="300" height="200"/> 
+<img src="hw2-2.jpg" width="300" height="200"/> 
+<img src="hw2-3.jpg" width="300" height="200"/> 
