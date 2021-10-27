@@ -125,4 +125,5 @@ CHIP PC {
     Register(in=Mux3,load=true,out=PC,out=out);
 }
 ```
-<img src="hw5.jpg" width="300" height="200"/> 
+<img src="hw6-1.jpg" width="1000" height="1000"/> 
+<img src="hw6-2.jpg" width="1000" height="1000"/> 
