@@ -57,10 +57,10 @@
     Or(a=JEQ, b=JGT, out=JGE);
     And(a=ng, b=instruction[2], out=JLT);
     Or(a=JLT, b=JGE, out=Pass);
-    And(a=instruction[15], b=Pass, out=forPC);
+    And(a=instruction[15], b=Pass, out=pcjump);
 
     //PCload()=是C指令 AND 滿足上面條件>>JUMP
 
-    PC(in=A, load=forPC, inc=true, reset=reset, out[0..14]=pc);
+    PC(in=A, load=pcjump, inc=true, reset=reset, out[0..14]=pc);
 }
 ```
