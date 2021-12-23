@@ -64,3 +64,4 @@
     PC(in=A, load=pcjump, inc=true, reset=reset, out[0..14]=pc);
 }
 ```
+<img src="hw8.jpg" width="1000" height="1000"/> 
