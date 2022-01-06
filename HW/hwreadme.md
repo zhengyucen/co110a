@@ -19,7 +19,7 @@ https://www.nand2tetris.org/course
 
 [HW7](https://github.com/zhengyucen/co110a/blob/master/HW/hw7/hw7.md)
 
-[HW8](https://github.com/zhengyucen/co110a/blob/master/HW/hw8/hw8.md)
+[HW8](https://github.com/zhengyucen/co110a/blob/master/HW/hw8/hw-8.md)
 
 [HW9](https://github.com/zhengyucen/co110a/blob/master/HW/hw9/hw9.md)
 
