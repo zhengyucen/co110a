@@ -11,7 +11,7 @@ https://www.nand2tetris.org/course
 
 [HW3](https://github.com/zhengyucen/co110a/blob/master/HW/hw3/hw3.md)
 
-[HW3習題](https://github.com/zhengyucen/co110a/blob/master/HW/%E7%AC%AC%E4%B8%89%E5%91%A8%E8%A3%9C%E5%85%85/sHW3.md)
+[3習題](https://github.com/zhengyucen/co110a/blob/master/HW/%E7%AC%AC%E4%B8%89%E5%91%A8%E8%A3%9C%E5%85%85/sHW3.md)
 
 [HW4](https://github.com/zhengyucen/co110a/blob/master/HW/hw4/hw4.md)
 
