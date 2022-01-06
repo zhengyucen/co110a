@@ -5,7 +5,6 @@ https://www.nand2tetris.org/course
 
 其他皆原創
 
-### 1.[
-HW1
-](https://github.com/zhengyucen/co110a/blob/master/HW/hw1/hw1.md)
+### 1.
+[HW1](https://github.com/zhengyucen/co110a/blob/master/HW/hw1/hw1.md)
 
