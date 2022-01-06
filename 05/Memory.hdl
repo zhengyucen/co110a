@@ -28,14 +28,14 @@ CHIP Memory {
 
     PARTS:
     // Put your code here:
-    Not(in=address[14],out=Nad);
+    Not(in=address[14],out=NotA);
     And(a=address[14],b=load,out=Sload);
-    And(a=Nad,b=load,out=Rload);
+    And(a=NotA,b=load,out=Rload);
 
-    RAM16K(in=in,address=address[0..13],load=Rload,out=R);
-    Screen(in=in,address=address[0..12],load=Sload,out=S);
-    Keyboard(out=kout);
+    RAM16K(in=in,address=address[0..13],load=Rload,out=outRam);
+    Screen(in=in,address=address[0..12],load=Sload,out=outSc);
+    Keyboard(out=outk);
 
-    Mux16(a=S,b=kout,sel=address[13],out=outSk);
-    Mux16(a=R,b=outSk,sel=address[14],out=out);
+    Mux16(a=outSc,b=outk,sel=address[13],out=outSK);
+    Mux16(a=outRam,b=outSK,sel=address[14],out=out);
 }
